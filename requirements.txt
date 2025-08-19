@@ -1,0 +1,18 @@
+# MkDocs and Material Theme
+mkdocs>=1.5.0
+mkdocs-material>=9.0.0
+
+# MkDocs Plugins
+mkdocs-git-revision-date-localized-plugin>=1.2.0
+mkdocs-minify-plugin>=0.7.0
+
+# Python Markdown Extensions
+pymdown-extensions>=10.0.0
+
+# Additional Dependencies
+pyyaml>=6.0
+jinja2>=3.1.0
+markdown>=3.4.0
+
+# Development Dependencies
+mkdocs-awesome-pages-plugin>=2.9.0 
