@@ -367,8 +367,10 @@ After successful installation:
 
 1. **[Configuration Guide](configuration.md)** - Configure the system
 2. **[Quick Start](quick-start.md)** - Get up and running
-3. **[User Guide](user-guide/)** - Learn how to use the features
-4. **[Development Setup](development/setup.md)** - Set up development environment
+3. **[Document Creation Guide](document-creation.md)** - Learn how to create new documents
+4. **[Document Update Guide](document-updates.md)** - Learn how to update existing documents
+5. **[User Guide](user-guide/)** - Learn how to use the features
+6. **[Development Setup](development/setup.md)** - Set up development environment
 
 ---
 

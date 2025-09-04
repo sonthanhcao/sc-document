@@ -9,6 +9,8 @@ If you're new here, start with these essential guides:
 - **[Quick Start Guide](getting-started/quick-start.md)** - Get up and running in minutes
 - **[Installation Guide](getting-started/installation.md)** - Set up your development environment
 - **[Configuration](getting-started/configuration.md)** - Configure the system for your needs
+- **[Document Creation Guide](getting-started/document-creation.md)** - Learn how to create new documents
+- **[Document Update Guide](getting-started/document-updates.md)** - Learn how to update existing documents
 
 ## 📚 Documentation Sections
 

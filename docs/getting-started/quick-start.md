@@ -145,10 +145,12 @@ chmod 644 config.yml
 
 Now that you're up and running:
 
-1. **[Read the User Guide](user-guide/)** - Learn how to use the features
-2. **[Explore the API](api/)** - Understand the available endpoints
-3. **[Check Examples](user-guide/examples.md)** - See practical usage examples
-4. **[Join the Team](team/)** - Learn about team processes and guidelines
+1. **[Document Creation Guide](document-creation.md)** - Learn how to create new documents
+2. **[Document Update Guide](document-updates.md)** - Learn how to update existing documents
+3. **[Read the User Guide](user-guide/)** - Learn how to use the features
+4. **[Explore the API](api/)** - Understand the available endpoints
+5. **[Check Examples](user-guide/examples.md)** - See practical usage examples
+6. **[Join the Team](team/)** - Learn about team processes and guidelines
 
 ## 🆘 Need Help?
 
